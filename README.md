@@ -22,4 +22,7 @@ which is used to the hidden layers to show the data in the gradient of the data 
 map the values binary (0 and 1 in the layer)
 
 3.Softmax:
-convert the 
+cover the raw data into (score) convert into the probability in the given data.
+
+back propagation and optimisation:
+in this propagation step we use some of the example MSE(means standard error),cross entropy stop: which optimises the data.
